@@ -1,0 +1,29 @@
+{
+  "name": "alankostrick.github.io",
+  "version": "1.0.0",
+  "description": "professional portfolio ",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanKostrick/AlanKostrick.github.io.git"
+  },
+  "author": "Alan Kostrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanKostrick/AlanKostrick.github.io/issues"
+  },
+  "homepage": "https://github.com/AlanKostrick/AlanKostrick.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "eslint": "^6.6.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
